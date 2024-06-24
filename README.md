@@ -1,1 +1,1 @@
-# Lear-Data-Science
+# Learn-Data-Science
